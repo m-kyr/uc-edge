@@ -102,5 +102,11 @@ prints full details.
 - More detail: `docs/DEVELOPMENT.md` covers the layout, tuning and log format, and `SPEC.md`
   holds the measurements and design.
 
-Provided as-is under the MIT License (see `LICENSE`). Not affiliated with or endorsed by Apple.
-Universal Control and macOS are trademarks of Apple Inc.
+## Support and license
+
+There's no support. This is a personal tool, shared as-is in case it helps someone with a similar
+desk. Issues are turned off, and pull requests may go unanswered. You're welcome to fork it and
+adapt it to your setup.
+
+MIT License (see `LICENSE`). Not affiliated with or endorsed by Apple. Universal Control and
+macOS are trademarks of Apple Inc.
