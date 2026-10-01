@@ -81,7 +81,7 @@ One code base, one app bundle `UCEdge.app` (bundle id `local.uc-edge`), the same
 - It **corrects** landings on its shared edge using the peer's packets.
 
 ```
-SwiftPM package  ~/Developer/uc-edge/Package.swift
+SwiftPM package  Package.swift (repo root)
   Sources/UCEdgeCore/   pure logic, no CoreGraphics side effects, fully unit-tested
       Geometry.swift        EdgeGeometry (built from display rects + side)
       Mapping.swift         physicalMap(...)
