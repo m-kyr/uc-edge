@@ -1,0 +1,23 @@
+{
+  "name": "lower",
+  "peerName": "Upper Mac",
+  "side": "top",
+  "edgeDisplays": [
+    "REPLACE-WITH-THE-UUID-OF-EACH-DISPLAY-WHOSE-TOP-EDGE-IS-SHARED"
+  ],
+  "peerHosts": [
+    "upper-mac.local"
+  ],
+  "corrections": {
+    "enabled": true
+  },
+  "ucLogAssist": {
+    "enabled": true
+  },
+  "detector": {
+    "overrideGuard": true
+  },
+  "deadStrip": {
+    "enabled": true
+  }
+}

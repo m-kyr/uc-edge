@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>local.uc-edge</string>
+	<key>CFBundleName</key>
+	<string>UCEdge</string>
+	<key>CFBundleDisplayName</key>
+	<string>UCEdge</string>
+	<key>CFBundleExecutable</key>
+	<string>UCEdge</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.4.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>UCEdge exchanges cursor-edge positions with your other Mac so Universal Control lands the cursor in the right place.</string>
+</dict>
+</plist>

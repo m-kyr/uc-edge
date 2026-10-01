@@ -1,0 +1,9 @@
+.build/
+build/
+lab/
+bootstrap/
+*.log
+__pycache__/
+scripts/local.env
+config/local/
+.claude/

@@ -1,0 +1,156 @@
+2026-09-29 12:38:19.962 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1:[-1601.0 -1.0 1.0 0.0]:guarded=false
+2026-09-29 12:38:19.980 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:19.993 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:38:19.996 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=-869.984375, drag=none, keyboard=31000000
+2026-09-29 12:38:32.679 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:38:32.679 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:38:32.679 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:32.688 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:38:32.689 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:38:32.720 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:38:32.757 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:34.749 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: left:4C000000:E5000000-0000-4000-8000-0000000000B1:[0.0 -1.0 1.0 1001.0]:guarded=false
+2026-09-29 12:38:34.751 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:34.763 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:38:34.766 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=left, offset=0.021705, drag=none, keyboard=4C000000
+2026-09-29 12:38:34.875 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:38:34.876 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:38:34.876 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:34.880 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:38:34.881 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:38:34.892 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:38:35.037 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:35.051 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1:[-1601.0 -1.0 1.0 0.0]:guarded=false
+2026-09-29 12:38:35.401 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:35.412 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:38:35.416 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=5.628906, drag=none, keyboard=4C000000
+2026-09-29 12:38:35.428 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:37.792 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:38:37.792 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:38:37.792 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:37.815 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:38:37.817 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:38:37.831 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:38:37.849 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:39.338 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: left:4C000000:E5000000-0000-4000-8000-0000000000B1:[0.0 -1.0 1.0 1001.0]:guarded=false
+2026-09-29 12:38:39.343 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:39.354 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:38:39.358 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=left, offset=0.157592, drag=none, keyboard=4C000000
+2026-09-29 12:38:40.893 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:38:40.893 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:38:40.893 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:40.898 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:38:40.899 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:38:40.922 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:38:40.949 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:42.317 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1:[-1601.0 -1.0 1.0 0.0]:guarded=false
+2026-09-29 12:38:42.329 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:42.339 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:38:42.345 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=-229.949219, drag=none, keyboard=4C000000
+2026-09-29 12:38:44.327 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:38:44.327 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:38:44.327 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:44.343 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:38:44.343 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:38:44.361 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:38:44.395 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:47.896 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1:[-1601.0 -1.0 1.0 0.0]:guarded=false
+2026-09-29 12:38:47.912 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:47.925 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:38:47.932 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=-662.492188, drag=none, keyboard=4C000000
+2026-09-29 12:38:49.507 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:38:49.508 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:38:49.508 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:49.511 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:38:49.512 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:38:49.523 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:38:49.552 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:38:51.420 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1:[-1601.0 -1.0 1.0 0.0]:guarded=false
+2026-09-29 12:38:51.448 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:51.459 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:38:51.462 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=-756.058594, drag=none, keyboard=4C000000
+2026-09-29 12:38:56.557 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:38:56.558 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:38:56.558 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:38:56.592 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:38:56.593 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:38:56.608 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:38:56.632 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:39:23.362 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1:[-1601.0 -1.0 1.0 0.0]:guarded=false
+2026-09-29 12:39:23.382 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:39:23.393 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:39:23.396 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=-1126.152344, drag=none, keyboard=31000000
+2026-09-29 12:39:24.526 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:39:24.526 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:39:24.526 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:39:24.533 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:39:24.534 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:39:24.534 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:39:24.686 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:41:07.259 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: left:4C000000:E5000000-0000-4000-8000-0000000000B1:[0.0 -1.0 1.0 1001.0]:guarded=false
+2026-09-29 12:41:07.264 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:41:07.274 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:41:07.277 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=left, offset=0.158026, drag=none, keyboard=31000000
+2026-09-29 12:41:07.610 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:41:07.610 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:41:07.611 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:41:07.618 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:41:07.637 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:41:07.637 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:41:07.814 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:44:10.537 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: left:4C000000:E5000000-0000-4000-8000-0000000000B1:[0.0 -1.0 1.0 1001.0]:guarded=false
+2026-09-29 12:44:10.539 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:44:10.549 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:44:10.552 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=left, offset=0.460688, drag=none, keyboard=31000000
+2026-09-29 12:44:21.715 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:44:21.715 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:44:21.715 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:44:21.722 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:44:21.722 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:44:21.753 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:44:21.783 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:44:49.979 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2:[-2560.0 -1.0 -1599.0 0.0]:guarded=false
+2026-09-29 12:44:49.996 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:44:50.008 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:44:50.014 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=0.998090, drag=none, keyboard=4C000000
+2026-09-29 12:45:17.163 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:45:17.164 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:45:17.164 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:45:17.171 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:45:17.172 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:45:17.200 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:45:17.234 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:45:20.579 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1:[-1601.0 -1.0 1.0 0.0]:guarded=false
+2026-09-29 12:45:20.596 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:45:20.609 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:45:20.616 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=-742.871094, drag=none, keyboard=4C000000
+2026-09-29 12:45:22.575 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:45:22.576 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:45:22.576 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:45:22.579 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:45:22.580 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:45:22.592 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:45:22.603 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:45:23.913 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1:[-1601.0 -1.0 1.0 0.0]:guarded=false
+2026-09-29 12:45:23.930 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: bottom:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:45:23.946 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:45:23.951 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=bottom, offset=-72.035156, drag=none, keyboard=4C000000
+2026-09-29 12:45:32.312 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:45:32.313 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:45:32.313 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:45:32.323 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:45:32.324 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:45:32.344 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:45:32.547 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:45:32.551 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Entering: left:4C000000:E5000000-0000-4000-8000-0000000000B1:[0.0 -1.0 1.0 1001.0]:guarded=false
+2026-09-29 12:45:32.707 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Activating: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:45:32.718 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Hide cursor 544087
+2026-09-29 12:45:32.723 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS P2P 4C000000/74D7: Target Ready: edge=left, offset=-0.336187, drag=none, keyboard=4C000000
+2026-09-29 12:45:32.731 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: left:4C000000:E5000000-0000-4000-8000-0000000000B1
+2026-09-29 12:45:32.956 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Begin ===
+2026-09-29 12:45:32.957 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Warp Location: <private>
+2026-09-29 12:45:32.957 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Warped into: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
+2026-09-29 12:45:32.964 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] Target Begin: event capture layer presented, point=<private>
+2026-09-29 12:45:32.964 Df UniversalControl[852:228f] [com.apple.universalcontrol:EVNT] IDS 4C000000: === Target Ready glue=false drag=<private> ===
+2026-09-29 12:45:32.968 Df UniversalControl[852:228f] [com.apple.universalcontrol:pointer] Show cursor 544087
+2026-09-29 12:45:32.997 Df UniversalControl[852:228f] [com.apple.universalcontrol:agent] Hot Zone: Leaving: bottom:4C000000:8D000000-0000-4000-8000-0000000000B2
